@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">alextimofeev_android_hw12</string>
+    <string name="search">Введите поисковый запрос</string>
+    <string name="result_search">Здесь будет отображаться результат поиска</string>
+    <string name="before">Запрос \"</string>
+    <string name="after">\"  не дал результатов</string>
+
+</resources>
